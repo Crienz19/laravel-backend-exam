@@ -1,7 +1,7 @@
-# composer install
+composer install
 
-# rename .env.example to .env
+rename .env.example to .env
 
-# create database.sqlite inside database directory
+create database.sqlite inside database directory
 
-# php artisan db:seed
+php artisan db:seed
